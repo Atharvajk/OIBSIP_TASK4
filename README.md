@@ -1,4 +1,4 @@
-![image](https://github.com/Atharvajk/OIBSIP_TASK4/assets/78205229/f80bfae1-5328-482a-8c55-16ad36efc8e6)# OIBSIP_Task4
+# OIBSIP_Task4
 <p>To run this website you have to place the code directory inside</p>
 <p>Xamp installation/htdocs</p>
 
